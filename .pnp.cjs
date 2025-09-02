@@ -59,6 +59,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:2.8.8"],\
           ["react", "npm:18.2.0"],\
           ["react-native", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:0.74.5"],\
+          ["react-native-quick-sqlite", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:8.2.7"],\
           ["react-native-safe-area-context", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:4.14.1"],\
           ["react-native-screens", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:3.37.0"],\
           ["react-test-renderer", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:18.2.0"],\
@@ -4521,6 +4522,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@sqltools/formatter", [\
+      ["npm:1.2.5", {\
+        "packageLocation": "../../../.yarn/berry/cache/@sqltools-formatter-npm-1.2.5-709e7c0ab8-10c0.zip/node_modules/@sqltools/formatter/",\
+        "packageDependencies": [\
+          ["@sqltools/formatter", "npm:1.2.5"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@testing-library/jest-native", [\
       ["npm:5.4.3", {\
         "packageLocation": "../../../.yarn/berry/cache/@testing-library-jest-native-npm-5.4.3-d4588822c4-10c0.zip/node_modules/@testing-library/jest-native/",\
@@ -5551,6 +5561,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["ansis", [\
+      ["npm:3.17.0", {\
+        "packageLocation": "../../../.yarn/berry/cache/ansis-npm-3.17.0-eca2c0d0c2-10c0.zip/node_modules/ansis/",\
+        "packageDependencies": [\
+          ["ansis", "npm:3.17.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["anymatch", [\
       ["npm:3.1.3", {\
         "packageLocation": "../../../.yarn/berry/cache/anymatch-npm-3.1.3-bc81d103b1-10c0.zip/node_modules/anymatch/",\
@@ -5558,6 +5577,15 @@ const RAW_RUNTIME_STATE =
           ["anymatch", "npm:3.1.3"],\
           ["normalize-path", "npm:3.0.0"],\
           ["picomatch", "npm:2.3.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["app-root-path", [\
+      ["npm:3.1.0", {\
+        "packageLocation": "../../../.yarn/berry/cache/app-root-path-npm-3.1.0-9822bb2a96-10c0.zip/node_modules/app-root-path/",\
+        "packageDependencies": [\
+          ["app-root-path", "npm:3.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -6087,6 +6115,15 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["base64-js", "npm:1.5.1"],\
           ["buffer", "npm:5.7.1"],\
+          ["ieee754", "npm:1.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:6.0.3", {\
+        "packageLocation": "../../../.yarn/berry/cache/buffer-npm-6.0.3-cd90dfedfe-10c0.zip/node_modules/buffer/",\
+        "packageDependencies": [\
+          ["base64-js", "npm:1.5.1"],\
+          ["buffer", "npm:6.0.3"],\
           ["ieee754", "npm:1.2.1"]\
         ],\
         "linkType": "HARD"\
@@ -6910,6 +6947,15 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["doctrine", "npm:3.0.0"],\
           ["esutils", "npm:2.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["dotenv", [\
+      ["npm:16.6.1", {\
+        "packageLocation": "../../../.yarn/berry/cache/dotenv-npm-16.6.1-01334288ea-10c0.zip/node_modules/dotenv/",\
+        "packageDependencies": [\
+          ["dotenv", "npm:16.6.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -7781,6 +7827,7 @@ const RAW_RUNTIME_STATE =
           ["prettier", "npm:2.8.8"],\
           ["react", "npm:18.2.0"],\
           ["react-native", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:0.74.5"],\
+          ["react-native-quick-sqlite", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:8.2.7"],\
           ["react-native-safe-area-context", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:4.14.1"],\
           ["react-native-screens", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:3.37.0"],\
           ["react-test-renderer", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:18.2.0"],\
@@ -11832,6 +11879,33 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["react-native-quick-sqlite", [\
+      ["npm:8.2.7", {\
+        "packageLocation": "./.yarn/unplugged/react-native-quick-sqlite-virtual-1212e67241/node_modules/react-native-quick-sqlite/",\
+        "packageDependencies": [\
+          ["react-native-quick-sqlite", "npm:8.2.7"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:8.2.7", {\
+        "packageLocation": "./.yarn/unplugged/react-native-quick-sqlite-virtual-1212e67241/node_modules/react-native-quick-sqlite/",\
+        "packageDependencies": [\
+          ["@types/react", "npm:18.3.24"],\
+          ["@types/react-native", null],\
+          ["react", "npm:18.2.0"],\
+          ["react-native", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:0.74.5"],\
+          ["react-native-quick-sqlite", "virtual:1fc1c265397082c40036473abb8026d8efcdd4a5a287c962895bbe5fda724a2125c8ed63b3b1fb51413a057c5eb58932ff16661113926841008919be5e902a90#npm:8.2.7"],\
+          ["typeorm", "virtual:1212e67241b9c31158ed3a59a56a9ed872fe2d1831fa4fac0ee8f002e46920f336b4a9dedb40489fb03c5d70156fbf59ee1fb372d9687e7d20e90c28b0d74057#npm:0.3.26"]\
+        ],\
+        "packagePeers": [\
+          "@types/react-native",\
+          "@types/react",\
+          "react-native",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["react-native-safe-area-context", [\
       ["npm:4.14.1", {\
         "packageLocation": "./.yarn/unplugged/react-native-safe-area-context-virtual-16275fda70/node_modules/react-native-safe-area-context/",\
@@ -12477,6 +12551,18 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["sha.js", [\
+      ["npm:2.4.12", {\
+        "packageLocation": "../../../.yarn/berry/cache/sha.js-npm-2.4.12-bc0424125d-10c0.zip/node_modules/sha.js/",\
+        "packageDependencies": [\
+          ["inherits", "npm:2.0.4"],\
+          ["safe-buffer", "npm:5.2.1"],\
+          ["sha.js", "npm:2.4.12"],\
+          ["to-buffer", "npm:1.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["shallow-clone", [\
       ["npm:3.0.1", {\
         "packageLocation": "../../../.yarn/berry/cache/shallow-clone-npm-3.0.1-dab5873d0d-10c0.zip/node_modules/shallow-clone/",\
@@ -12721,6 +12807,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../.yarn/berry/cache/sprintf-js-npm-1.0.3-73f0a322fa-10c0.zip/node_modules/sprintf-js/",\
         "packageDependencies": [\
           ["sprintf-js", "npm:1.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["sql-highlight", [\
+      ["npm:6.1.0", {\
+        "packageLocation": "../../../.yarn/berry/cache/sql-highlight-npm-6.1.0-0e3983ca8c-10c0.zip/node_modules/sql-highlight/",\
+        "packageDependencies": [\
+          ["sql-highlight", "npm:6.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -13176,6 +13271,18 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["to-buffer", [\
+      ["npm:1.2.1", {\
+        "packageLocation": "../../../.yarn/berry/cache/to-buffer-npm-1.2.1-d977d5fb59-10c0.zip/node_modules/to-buffer/",\
+        "packageDependencies": [\
+          ["isarray", "npm:2.0.5"],\
+          ["safe-buffer", "npm:5.2.1"],\
+          ["to-buffer", "npm:1.2.1"],\
+          ["typed-array-buffer", "npm:1.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["to-regex-range", [\
       ["npm:5.0.1", {\
         "packageLocation": "../../../.yarn/berry/cache/to-regex-range-npm-5.0.1-f1e8263b00-10c0.zip/node_modules/to-regex-range/",\
@@ -13404,6 +13511,106 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["typeorm", [\
+      ["npm:0.3.26", {\
+        "packageLocation": "../../../.yarn/berry/cache/typeorm-npm-0.3.26-d7bc7b0c03-10c0.zip/node_modules/typeorm/",\
+        "packageDependencies": [\
+          ["typeorm", "npm:0.3.26"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:1212e67241b9c31158ed3a59a56a9ed872fe2d1831fa4fac0ee8f002e46920f336b4a9dedb40489fb03c5d70156fbf59ee1fb372d9687e7d20e90c28b0d74057#npm:0.3.26", {\
+        "packageLocation": "./.yarn/__virtual__/typeorm-virtual-d5cbce213a/4/.yarn/berry/cache/typeorm-npm-0.3.26-d7bc7b0c03-10c0.zip/node_modules/typeorm/",\
+        "packageDependencies": [\
+          ["@google-cloud/spanner", null],\
+          ["@sap/hana-client", null],\
+          ["@sqltools/formatter", "npm:1.2.5"],\
+          ["@types/better-sqlite3", null],\
+          ["@types/google-cloud__spanner", null],\
+          ["@types/ioredis", null],\
+          ["@types/mongodb", null],\
+          ["@types/mssql", null],\
+          ["@types/mysql2", null],\
+          ["@types/oracledb", null],\
+          ["@types/pg", null],\
+          ["@types/pg-native", null],\
+          ["@types/pg-query-stream", null],\
+          ["@types/redis", null],\
+          ["@types/reflect-metadata", null],\
+          ["@types/sap__hana-client", null],\
+          ["@types/sql.js", null],\
+          ["@types/sqlite3", null],\
+          ["@types/ts-node", null],\
+          ["@types/typeorm-aurora-data-api-driver", null],\
+          ["ansis", "npm:3.17.0"],\
+          ["app-root-path", "npm:3.1.0"],\
+          ["better-sqlite3", null],\
+          ["buffer", "npm:6.0.3"],\
+          ["dayjs", "npm:1.11.18"],\
+          ["debug", "virtual:7786c501c79aa105de26d543c50999bc3ffc28c31c1a6f2d58b7186cb22c72362e89eca24786c0d5c6c0538a0bef1031c054fdc988813e6f7e1df708f2aee1cd#npm:4.4.1"],\
+          ["dedent", "virtual:f7679858c638e2e5ade31901dd2b1e5007918fdc7d84fefb11f4200f46ba2e43b9d662fb793507b517bb1e725144e51f6d68f60f9f6100fd52144f042f58f0bc#npm:1.6.0"],\
+          ["dotenv", "npm:16.6.1"],\
+          ["glob", "npm:10.4.5"],\
+          ["ioredis", null],\
+          ["mongodb", null],\
+          ["mssql", null],\
+          ["mysql2", null],\
+          ["oracledb", null],\
+          ["pg", null],\
+          ["pg-native", null],\
+          ["pg-query-stream", null],\
+          ["redis", null],\
+          ["reflect-metadata", null],\
+          ["sha.js", "npm:2.4.12"],\
+          ["sql-highlight", "npm:6.1.0"],\
+          ["sql.js", null],\
+          ["sqlite3", null],\
+          ["ts-node", null],\
+          ["tslib", "npm:2.8.1"],\
+          ["typeorm", "virtual:1212e67241b9c31158ed3a59a56a9ed872fe2d1831fa4fac0ee8f002e46920f336b4a9dedb40489fb03c5d70156fbf59ee1fb372d9687e7d20e90c28b0d74057#npm:0.3.26"],\
+          ["typeorm-aurora-data-api-driver", null],\
+          ["uuid", "npm:11.1.0"],\
+          ["yargs", "npm:17.7.2"]\
+        ],\
+        "packagePeers": [\
+          "@google-cloud/spanner",\
+          "@sap/hana-client",\
+          "@types/better-sqlite3",\
+          "@types/google-cloud__spanner",\
+          "@types/ioredis",\
+          "@types/mongodb",\
+          "@types/mssql",\
+          "@types/mysql2",\
+          "@types/oracledb",\
+          "@types/pg-native",\
+          "@types/pg-query-stream",\
+          "@types/pg",\
+          "@types/redis",\
+          "@types/reflect-metadata",\
+          "@types/sap__hana-client",\
+          "@types/sql.js",\
+          "@types/sqlite3",\
+          "@types/ts-node",\
+          "@types/typeorm-aurora-data-api-driver",\
+          "better-sqlite3",\
+          "ioredis",\
+          "mongodb",\
+          "mssql",\
+          "mysql2",\
+          "oracledb",\
+          "pg-native",\
+          "pg-query-stream",\
+          "pg",\
+          "redis",\
+          "reflect-metadata",\
+          "sql.js",\
+          "sqlite3",\
+          "ts-node",\
+          "typeorm-aurora-data-api-driver"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["typescript", [\
       ["patch:typescript@npm%3A5.0.4#optional!builtin<compat/typescript>::version=5.0.4&hash=b5f058", {\
         "packageLocation": "../../../.yarn/berry/cache/typescript-patch-ce5481e54d-10c0.zip/node_modules/typescript/",\
@@ -13618,6 +13825,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../.yarn/berry/cache/utils-merge-npm-1.0.1-363bbdfbca-10c0.zip/node_modules/utils-merge/",\
         "packageDependencies": [\
           ["utils-merge", "npm:1.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["uuid", [\
+      ["npm:11.1.0", {\
+        "packageLocation": "../../../.yarn/berry/cache/uuid-npm-11.1.0-61d0d08928-10c0.zip/node_modules/uuid/",\
+        "packageDependencies": [\
+          ["uuid", "npm:11.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
