@@ -1,0 +1,386 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Theme Snapshots matches snapshot in dark theme: Button-dark-theme 1`] = `
+<View
+  accessibilityLabel="Dark Theme Button"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": false,
+      "checked": undefined,
+      "disabled": false,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      },
+      {
+        "backgroundColor": "#5B8CFF",
+        "borderRadius": 14,
+        "borderWidth": 0,
+        "height": 48,
+        "minWidth": 44,
+        "paddingHorizontal": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    allowFontScaling={true}
+    maxFontSizeMultiplier={2}
+    style={
+      [
+        {
+          "textAlign": "center",
+        },
+        {
+          "color": "#0B0E14",
+          "fontSize": 16,
+          "fontWeight": "600",
+        },
+        {
+          "opacity": 1,
+        },
+        false,
+      ]
+    }
+  >
+    Dark Theme Button
+  </Text>
+</View>
+`;
+
+exports[`Button Theme Snapshots matches snapshot in light theme: Button-light-theme 1`] = `
+<View
+  accessibilityLabel="Light Theme Button"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": false,
+      "checked": undefined,
+      "disabled": false,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      },
+      {
+        "backgroundColor": "#5B8CFF",
+        "borderRadius": 14,
+        "borderWidth": 0,
+        "height": 48,
+        "minWidth": 44,
+        "paddingHorizontal": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    allowFontScaling={true}
+    maxFontSizeMultiplier={2}
+    style={
+      [
+        {
+          "textAlign": "center",
+        },
+        {
+          "color": "#FFFFFF",
+          "fontSize": 16,
+          "fontWeight": "600",
+        },
+        {
+          "opacity": 1,
+        },
+        false,
+      ]
+    }
+  >
+    Light Theme Button
+  </Text>
+</View>
+`;
+
+exports[`Button Theme Snapshots matches snapshot with Azure accent: Button-azure-accent 1`] = `
+<View
+  accessibilityLabel="Azure Accent Button"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": false,
+      "checked": undefined,
+      "disabled": false,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      },
+      {
+        "backgroundColor": "#5B8CFF",
+        "borderRadius": 14,
+        "borderWidth": 0,
+        "height": 48,
+        "minWidth": 44,
+        "paddingHorizontal": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    allowFontScaling={true}
+    maxFontSizeMultiplier={2}
+    style={
+      [
+        {
+          "textAlign": "center",
+        },
+        {
+          "color": "#FFFFFF",
+          "fontSize": 16,
+          "fontWeight": "600",
+        },
+        {
+          "opacity": 1,
+        },
+        false,
+      ]
+    }
+  >
+    Azure Accent Button
+  </Text>
+</View>
+`;
+
+exports[`Button Theme Snapshots matches snapshot with CBAP accent: Button-cbap-accent 1`] = `
+<View
+  accessibilityLabel="CBAP Accent Button"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": false,
+      "checked": undefined,
+      "disabled": false,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      },
+      {
+        "backgroundColor": "#5B8CFF",
+        "borderRadius": 14,
+        "borderWidth": 0,
+        "height": 48,
+        "minWidth": 44,
+        "paddingHorizontal": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    allowFontScaling={true}
+    maxFontSizeMultiplier={2}
+    style={
+      [
+        {
+          "textAlign": "center",
+        },
+        {
+          "color": "#FFFFFF",
+          "fontSize": 16,
+          "fontWeight": "600",
+        },
+        {
+          "opacity": 1,
+        },
+        false,
+      ]
+    }
+  >
+    CBAP Accent Button
+  </Text>
+</View>
+`;
+
+exports[`Button Theme Snapshots matches snapshot with PMP accent: Button-pmp-accent 1`] = `
+<View
+  accessibilityLabel="PMP Accent Button"
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": false,
+      "checked": undefined,
+      "disabled": false,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "alignItems": "center",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      },
+      {
+        "backgroundColor": "#5B8CFF",
+        "borderRadius": 14,
+        "borderWidth": 0,
+        "height": 48,
+        "minWidth": 44,
+        "paddingHorizontal": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    allowFontScaling={true}
+    maxFontSizeMultiplier={2}
+    style={
+      [
+        {
+          "textAlign": "center",
+        },
+        {
+          "color": "#FFFFFF",
+          "fontSize": 16,
+          "fontWeight": "600",
+        },
+        {
+          "opacity": 1,
+        },
+        false,
+      ]
+    }
+  >
+    PMP Accent Button
+  </Text>
+</View>
+`;

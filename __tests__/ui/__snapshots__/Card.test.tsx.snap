@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card Theme Snapshots matches snapshot as interactive card: Card-interactive 1`] = `
+<View
+  accessibilityRole="button"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    [
+      {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 18,
+        "elevation": 8,
+        "padding": 16,
+        "shadowColor": "#0C101C",
+        "shadowOffset": {
+          "height": 6,
+          "width": 0,
+        },
+        "shadowOpacity": 0.28,
+        "shadowRadius": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text>
+    Interactive Card
+  </Text>
+</View>
+`;
+
+exports[`Card Theme Snapshots matches snapshot in dark theme: Card-dark-theme 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#182032",
+        "borderRadius": 18,
+        "elevation": 8,
+        "padding": 16,
+        "shadowColor": "#0C101C",
+        "shadowOffset": {
+          "height": 6,
+          "width": 0,
+        },
+        "shadowOpacity": 0.28,
+        "shadowRadius": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text>
+    Dark Theme Card
+  </Text>
+</View>
+`;
+
+exports[`Card Theme Snapshots matches snapshot in light theme: Card-light-theme 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 18,
+        "elevation": 8,
+        "padding": 16,
+        "shadowColor": "#0C101C",
+        "shadowOffset": {
+          "height": 6,
+          "width": 0,
+        },
+        "shadowOpacity": 0.28,
+        "shadowRadius": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text>
+    Light Theme Card
+  </Text>
+</View>
+`;
+
+exports[`Card Theme Snapshots matches snapshot with pressed elevation: Card-pressed-elevation 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 18,
+        "elevation": 4,
+        "padding": 16,
+        "shadowColor": "#0C101C",
+        "shadowOffset": {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.35,
+        "shadowRadius": 8,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text>
+    Pressed Elevation Card
+  </Text>
+</View>
+`;
+
+exports[`Card Theme Snapshots matches snapshot with rest elevation: Card-rest-elevation 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#FFFFFF",
+        "borderRadius": 18,
+        "elevation": 8,
+        "padding": 16,
+        "shadowColor": "#0C101C",
+        "shadowOffset": {
+          "height": 6,
+          "width": 0,
+        },
+        "shadowOpacity": 0.28,
+        "shadowRadius": 16,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text>
+    Rest Elevation Card
+  </Text>
+</View>
+`;
